@@ -18,10 +18,10 @@ I love learning new technologies and building projects that help me grow my skil
 - **[Loopstudios Landing Page](https://github.com/jayl-ch/loopstudios-landing-page)**  
   Responsive Landing Page built with React
 
-- **[E-commerce Product Page](https://github.com/jayl-ch/ecommerce-product-page)**
+- **[E-commerce Product Page](https://github.com/jayl-ch/ecommerce-product-page)**  
   Simple E-commerce product page built with plain HTML, CSS, JS
 
-- **[News Homepage](https://github.com/jayl-ch/news-homepage)**
+- **[News Homepage](https://github.com/jayl-ch/news-homepage)**  
   Responsive Homepage using CSS Grid and built with plain HTML, CSS, JS
   
 
